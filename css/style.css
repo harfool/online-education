@@ -720,27 +720,22 @@ section {
   padding: 1rem 0;
   color: #302851;
 }
-
 .footer .box-container .box a {
   display: block;
   font-size: 1.4rem;
   padding: 1rem 0;
   color: #666;
 }
-
 .footer .box-container .box a:hover {
   color: #fa1d86;
 }
-
 .footer .box-container .box a:hover i {
   padding-right: 2rem;
 }
-
 .footer .box-container .box a i {
   color: #fa1d86;
   padding-right: .5rem;
 }
-
 .footer .credit {
   text-align: center;
   margin-top: 2rem;
@@ -750,11 +745,9 @@ section {
   color: #666;
   border-top: 0.1rem solid rgba(0, 0, 0, 0.1);
 }
-
 .footer .credit span {
   color: #fa1d86;
 }
-
 @media (max-width: 1200px) {
   html {
     font-size: 55%;
@@ -763,7 +756,6 @@ section {
     padding: 3rem 2rem;
   }
 }
-
 @media (max-width: 768px) {
   #menu-btn {
     display: inline-block;
@@ -799,10 +791,8 @@ section {
     border-width: .2rem;
   }
 }
-
 @media (max-width: 450px) {
   html {
     font-size: 50%;
   }
 }
-# sourceMappingURL=style.css.map
